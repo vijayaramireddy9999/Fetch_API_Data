@@ -1,0 +1,28 @@
+img{
+  width: 150px;
+  height: 100px;
+}
+
+*{
+  text-align: center;
+}
+
+div{
+  background-color: rgba(37, 16, 6, 0.959);
+}
+
+h1{
+  color: whitesmoke;
+}
+
+th{
+  background-color: grey;
+}
+
+tbody{
+  background-color: rgb(247, 240, 176);
+}
+
+td{
+  padding: 10px;
+}
